@@ -1,2 +1,2 @@
 # Python-For-Security
-Helpfull scripts
+Some helpfull scripts in Python
