@@ -3,7 +3,7 @@ import time
 import os
 startTime = time.time()
 
-target = input("Enter the taget host : ")
+target = input("Enter the target host : ")
 t_ip = gethostbyname(target)
 print(f"Scanning the host >>> {t_ip}")
 
